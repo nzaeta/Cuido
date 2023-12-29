@@ -8,8 +8,6 @@ Rol: Desarrollo Back-End. API Rest <br>
 Tecnologías utilizadas: Java, Spring Framework (Spring Boot y Spring Security), MySQL, JPA, Lombok, Git <br>
 Herramientas: Eclipse, Insomnia, Workbench <br>
 
-https://cuido.ar/
-
 El proyecto fue dividido en 4 etapas:
 - Módulo Administración (COMPLETADO)
 - Módulo Liquidación 
